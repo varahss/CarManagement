@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/varsha/EWorkbench/B87SpmvcRegApp/WebContent/WEB-INF/lib/org.springframework.context_4.0.2.20140223-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/varsha/EWorkbench/B87SpmvcRegApp/WebContent/WEB-INF/lib/org.springframework.web_4.0.2.20140223-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/varsha/EWorkbench/B90CRUDSpringHibApp/WebContent/WEB-INF/lib/spring-web-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/varsha/EWorkbench/B87SpmvcRegApp/WebContent/WEB-INF/lib/org.springframework.beans_4.0.2.20140223-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/varsha/EWorkbench/B87SpmvcRegApp/WebContent/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/varsha/EWorkbench/B87SpmvcRegApp/WebContent/WEB-INF/lib/hibernate-core-5.2.4.Final.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
